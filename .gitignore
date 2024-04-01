@@ -1,0 +1,13 @@
+# environments
+venv/
+.venv/
+
+# mac files
+.DS_Store
+
+# compiled
+__pycache__/
+mlruns/
+
+# files
+# /data
