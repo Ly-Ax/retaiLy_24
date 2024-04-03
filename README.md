@@ -20,7 +20,7 @@ The dataset contains 9 variables and 100000 instances.
 |total_ratings|Total ratings of the book|
 |rating|Average rating of the book|
 
-https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ### Project Structure
 
