@@ -1,6 +1,6 @@
-# GreenLy - Machine Learning
+# GreenLy Tech
 
-## GoodReads: Book Ratings Predictions
+## Price Optimization with Machine Learning
 
 [**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
 
@@ -20,7 +20,7 @@ The dataset contains 9 variables and 100000 instances.
 |total_ratings|Total ratings of the book|
 |rating|Average rating of the book|
 
-https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k
+https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions
 
 ### Project Structure
 
