@@ -1,22 +1,25 @@
-# GreenLy Tech
+<img align="right" src="images/greenly_tech.png" width="200px">
 
-## Retail Machine Learning Lab
+# GreenLy: Retail ML Lab
 
 [**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
 
-### Data Card
+[**Mireya Quinteros Hernandez**](https://www.linkedin.com/in/mireyaquinteros/)
 
-The dataset contains 16 variables and 9994 instances.
+## Data Card
+
+The dataset contains 16 variables and 51290 instances.
 
 |Variable|Description|
 |--------|-----------|
 |Order ID|Unique order ID for each customer|
 |Order Date|Order date of the product|
+|Order Priority|...|
 |Ship Date|Shipping date of the product|
 |Ship Mode|Shipping mode specified by the customer|
 |Segment|The segment where the customer belongs|
+|Market|...|
 |Country|Country of residence of the customer|
-|Region|Region where the customer belong|
 |State|State of residence of the customer|
 |City|City of residence of of the customer|
 |Customer Name|Name of the customer|
@@ -27,17 +30,20 @@ The dataset contains 16 variables and 9994 instances.
 |Quantity|Quantity of the product|
 |Profit|Profit / loss incurred|
 
-Based and sampled from [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Based and sampled from [Kaggle - Superstore Data](https://www.kaggle.com/datasets/jr2ngb/superstore-data)
 
-### Project Structure
+## Project Structure
 
     ├── data/
         └── raw/
-            └── sample_superstore.csv               -> Original superstore dataset
+            └── superstore_data.csv                 -> Sampled superstore dataset
         └── clean/
+    ├── images/
+        └── greenly_tech.png                        -> GreenLy Tech main image
     ├── notebooks/
-        └── data_exploration.ipynb                  -> Exploratory Data Analysis
-        └── preprocessing.ipynb                     -> Data Preprocessing
+        └── transform/
+            └── data_exploration.ipynb              -> Exploratory Data Analysis
+            └── preprocessing.ipynb                 -> Data Preprocessing
     ├── src/
         └── transform/
             └── __init__.py                         -> Convert directory to package
