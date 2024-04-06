@@ -1,5 +1,5 @@
-<!-- <img align="right" src="images/greenly_tech.png" width="200px">
--->
+<img align="right" src="images/greenly_tech.png" width="200px">
+
 # Ly-Ax: Retail ML Lab
 
 [**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
