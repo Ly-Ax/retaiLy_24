@@ -1,10 +1,8 @@
-<img align="right" src="images/greenly_tech.png" width="200px">
-
-# GreenLy: Retail ML Lab
+<!-- <img align="right" src="images/greenly_tech.png" width="200px">
+-->
+# Ly-Ax: Retail ML Lab
 
 [**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
-
-<!-- [**Mireya Quinteros Hernandez**](https://www.linkedin.com/in/mireyaquinteros/) -->
 
 ## Data Card
 
