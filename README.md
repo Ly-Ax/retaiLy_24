@@ -4,21 +4,21 @@
 
 [**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
 
-[**Mireya Quinteros Hernandez**](https://www.linkedin.com/in/mireyaquinteros/)
+<!-- [**Mireya Quinteros Hernandez**](https://www.linkedin.com/in/mireyaquinteros/) -->
 
 ## Data Card
 
-The dataset contains 16 variables and 51290 instances.
+The dataset contains 17 variables and 51290 instances.
 
 |Variable|Description|
 |--------|-----------|
 |Order ID|Unique order ID for each customer|
 |Order Date|Order date of the product|
-|Order Priority|...|
+|Order Priority|Order priority of the product|
 |Ship Date|Shipping date of the product|
 |Ship Mode|Shipping mode specified by the customer|
 |Segment|The segment where the customer belongs|
-|Market|...|
+|Market|The market where the customer belongs|
 |Country|Country of residence of the customer|
 |State|State of residence of the customer|
 |City|City of residence of of the customer|
