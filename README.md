@@ -37,9 +37,7 @@ Based and sampled from [Kaggle - Superstore Data](https://www.kaggle.com/dataset
             └── superstore_data.csv                 -> Sampled superstore dataset
         └── clean/
     ├── images/
-        └── greenly_tech.png                        -> GreenLy Tech main image
-        └── crisp_ml_process.jpg                    -> CRISP-ML Process image
-        └── mlops_stack.jpg                         -> MLOps Stack image
+        └── ...                                     -> Multiple project images
     ├── notebooks/
         └── methodology/
             └── ml_operations.ipynb                 -> Machine Learning Operations
