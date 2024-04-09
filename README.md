@@ -42,7 +42,6 @@ Based and sampled from [Kaggle - Superstore Data](https://www.kaggle.com/dataset
         └── methodology/
             └── ml_operations.ipynb                 -> Machine Learning Operations
             └── crisp_ml_retail.ipynb               -> CRISP-ML(Q): Retail ML Lab
-            └── mlops_stack.ipynb                   -> MLOps Stack Canvas: Retail ML
         └── transform/
             └── data_exploration.ipynb              -> Exploratory Data Analysis
             └── preprocessing.ipynb                 -> Data Preprocessing
