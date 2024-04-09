@@ -37,9 +37,10 @@ Based and sampled from [Kaggle - Superstore Data](https://www.kaggle.com/dataset
             └── superstore_data.csv                 -> Sampled superstore dataset
         └── clean/
     ├── images/
-        └── greenly_tech.png                        -> GreenLy Tech main image
+        └── ...                                     -> Multiple project images
     ├── notebooks/
         └── methodology/
+            └── ml_operations.ipynb                 -> Machine Learning Operations
             └── crisp_ml_retail.ipynb               -> CRISP-ML(Q): Retail ML Lab
         └── transform/
             └── data_exploration.ipynb              -> Exploratory Data Analysis
