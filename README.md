@@ -1,40 +1,34 @@
 <img align="right" src="images/greenly_tech.png" width="200px">
 
-# Ly-Ax: Retail ML Lab
+# GreenLy: Retail ML
 
 [**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
 
-## Data Card
+## Coffee Shop Sales
 
-The dataset contains 17 variables and 51290 instances.
+The dataset contains 11 variables and 149116 instances.
 
 |Variable|Description|
 |--------|-----------|
-|Order ID|Unique order ID for each customer|
-|Order Date|Order date of the product|
-|Order Priority|Order priority of the product|
-|Ship Date|Shipping date of the product|
-|Ship Mode|Shipping mode specified by the customer|
-|Segment|The segment where the customer belongs|
-|Market|The market where the customer belongs|
-|Country|Country of residence of the customer|
-|State|State of residence of the customer|
-|City|City of residence of of the customer|
-|Customer Name|Name of the customer|
-|Category|Category of the product ordered|
-|Sub-Category|Sub-Category of the product ordered|
-|Product Name|Name of the product|
-|Sales|Sales of the product|
-|Quantity|Quantity of the product|
-|Profit|Profit / loss incurred|
+|transaction_id|Transaction ID|
+|transaction_date|Date of transactions|
+|transaction_time|Time of transactions|
+|store_location|The location of store|
+|product_category|The category of product|
+|product_type|The type of product|
+|product_detail|The product name|	
+|product_size|The size of product|
+|unit_price|Product price per unit|
+|quantity|Product quantity|
+|total_bill|The total bill|
 
-Based and sampled from [Kaggle - Superstore Data](https://www.kaggle.com/datasets/jr2ngb/superstore-data)
+[Kaggle - Coffee Shop Sales](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis)
 
 ## Project Structure
 
     ├── data/
         └── raw/
-            └── superstore_data.csv                 -> Sampled superstore dataset
+            └── walmart_data.csv                    -> Sampled superstore dataset
         └── clean/
     ├── images/
         └── ...                                     -> Multiple project images
