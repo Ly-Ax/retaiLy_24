@@ -4,7 +4,7 @@
 
 [**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
 
-## Coffee Shop Sales
+## Use Case: Coffee Shop Sales
 
 The dataset contains 11 variables and 149116 instances.
 
@@ -24,11 +24,12 @@ The dataset contains 11 variables and 149116 instances.
 
 [Kaggle - Coffee Shop Sales](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis)
 
-## Project Structure
+## Final Project Structure
 
     ├── data/
         └── raw/
-            └── walmart_data.csv                    -> Sampled superstore dataset
+            └── coffee_shop_sales.csv               -> Coffee Shop sampled dataset
+            └── walmart_dataset.csv                 -> ...
         └── clean/
     ├── images/
         └── ...                                     -> Multiple project images
@@ -36,9 +37,10 @@ The dataset contains 11 variables and 149116 instances.
         └── methodology/
             └── ml_operations.ipynb                 -> Machine Learning Operations
             └── crisp_ml_retail.ipynb               -> CRISP-ML(Q): Retail ML Lab
+        └── analysis/
+            └── coffee_shop_eda.ipynb               -> Coffee Shop Sales EDA
         └── transform/
-            └── data_exploration.ipynb              -> Exploratory Data Analysis
-            └── preprocessing.ipynb                 -> Data Preprocessing
+            └── coffee_prepro.ipynb                 -> Coffee Shop Data Preprocessing
     ├── src/
         └── transform/
             └── __init__.py                         -> Convert directory to package
