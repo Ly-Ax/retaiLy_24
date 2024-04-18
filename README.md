@@ -29,7 +29,6 @@ The dataset contains 11 variables and 149116 instances.
     ├── data/
         └── raw/
             └── coffee_shop_sales.csv               -> Coffee Shop sampled dataset
-            └── walmart_dataset.csv                 -> ...
         └── clean/
     ├── images/
         └── ...                                     -> Multiple project images
@@ -40,7 +39,7 @@ The dataset contains 11 variables and 149116 instances.
         └── analysis/
             └── coffee_shop_eda.ipynb               -> Coffee Shop Sales EDA
         └── transform/
-            └── coffee_prepro.ipynb                 -> Coffee Shop Data Preprocessing
+            └── coffee_pipeline.ipynb               -> Coffee Shop Data Pipeline
     ├── src/
         └── transform/
             └── __init__.py                         -> Convert directory to package
