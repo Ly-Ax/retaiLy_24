@@ -31,8 +31,6 @@ The dataset contains 11 variables and 149116 instances.
             └── coffee_shop_sales.csv               -> Coffee Shop sampled dataset
         └── clean/
             └── coffee_shop_clean.csv               -> Coffee Shop clean dataset
-            └── coffee_shop_train.csv               -> Coffee Shop train dataset
-            └── coffee_shop_test.csv                -> Coffee Shop test dataset
     ├── images/
         └── ...                                     -> Multiple project images
     ├── models/
@@ -46,7 +44,10 @@ The dataset contains 11 variables and 149116 instances.
         └── transform/
             └── coffee_pipeline.ipynb               -> Coffee Shop data pipeline
         └── time_series/
-            └── ...                                 -> 
+            └── sarimax_model.ipynb                 -> 
+            └── var_model.ipynb                     -> 
+            └── prophet_model.ipynb                 -> 
+            └── rnn_time_series.ipynb               -> 
     ├── src/
         └── transform/
             └── __init__.py                         -> Convert directory to package
