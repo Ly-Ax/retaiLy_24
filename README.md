@@ -2,9 +2,13 @@
 
 # GreenLy: Retail ML
 
-[**Alex Castro Gumiel**](https://www.linkedin.com/in/alex-castro-gumiel/)
+[Alex Castro Gumiel](https://www.linkedin.com/in/alex-castro-gumiel/)
 
-## Use Case: Coffee Shop Sales
+[Mireya Quinteros Hernandez](https://www.linkedin.com/in/mireyaquinteros/)
+
+[**GreenLy Tech**](https://greenlytech.com/)
+
+## Use Case: Store Sales
 
 The dataset contains 11 variables and 149116 instances.
 
@@ -22,7 +26,7 @@ The dataset contains 11 variables and 149116 instances.
 |quantity|Product quantity|
 |total_bill|The total bill|
 
-[Kaggle - Coffee Shop Sales](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis)
+[Kaggle - Rossmann Store Sales](https://www.kaggle.com/competitions/rossmann-store-sales/overview)
 
 ## Final Project Structure
 
