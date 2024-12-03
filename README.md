@@ -1,7 +1,4 @@
-<a href="https://greenlytech.com/" target="_blank">
-    <img align="right" src="images/greenly_tech.png" width="200px">
-</a>
-
+[<img align="right" src="images/greenly_tech.png" width="200px">](https://greenlytech.com/)
 
 # greenLy: Retail
 
