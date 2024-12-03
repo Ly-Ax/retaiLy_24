@@ -1,33 +1,25 @@
-<a href="https://greenlytech.com/" target="_blank">
-    <img align="right" src="images/greenly_tech.png" width="200px">
-</a>
+[<img align="right" src="images/greenly_tech.png" width="200px">](https://greenlytech.com/)
 
-
-# greenLy: Retail
+# greenLy: Retail ML Lab
 
 [Alex Castro Gumiel](https://www.linkedin.com/in/alex-castro-gumiel/)
 <!-- [Mireya Quinteros Hernandez](https://www.linkedin.com/in/mireyaquinteros/) -->
-[**GreenLy Tech**](https://greenlytech.com/)
 
-## Use Case: Store Sales
+## Use Case: Retail Store Sales Transactions
 
-<!-- The dataset contains 11 variables and 149116 instances. -->
+The dataset contains 7 variables and 131706 instances.
 
 |Variable|Description|
 |--------|-----------|
-<!-- |transaction_id|Transaction ID|
-|transaction_date|Date of transactions|
-|transaction_time|Time of transactions|
-|store_location|The location of store|
-|product_category|The category of product|
-|product_type|The type of product|
-|product_detail|The product name|	
-|product_size|The size of product|
-|unit_price|Product price per unit|
-|quantity|Product quantity|
-|total_bill|The total bill| -->
+|Date|Sales date|
+|Transaction|Transaction ID|
+|Customer|Customer code|
+|Category|Category code|
+|Product|Poduct code|
+|Quantity|Sales quantity|
+|SalesAmount|Sales amount|
 
-[Retail Store Sales Transactions](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions)
+[Scanner Data](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions)
 
 ## Project Structure
 
