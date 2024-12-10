@@ -8,6 +8,3 @@ venv/
 # compiled
 __pycache__/
 mlruns/
-
-# files
-# /data
