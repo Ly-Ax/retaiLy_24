@@ -3,7 +3,6 @@
 # greenLy: Retail ML Lab
 
 [Alex Castro Gumiel](https://www.linkedin.com/in/alex-castro-gumiel/)
-<!-- [Mireya Quinteros Hernandez](https://www.linkedin.com/in/mireyaquinteros/) -->
 
 ## Use Case: Retail Store Sales Transactions
 
